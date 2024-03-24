@@ -1,0 +1,68 @@
+body {
+    background-image: url('new.png');
+    background-position: fixed;
+    background-attachment: fixed;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.page-content {
+    background-color: rgb(36, 4, 86);
+    color:white;
+    padding: 5px;
+    border-radius: 15px;
+}
+.maintitle {
+    max-width: 185px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.maintitlecentering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.backbutton {
+    background-color: rgb(36, 4, 86);
+    max-width: 98px;
+    padding: 5px;
+    border-radius: 5px;   
+}
+
+.cbox {
+    min-height: 450px;
+    max-height: 450px;
+    min-width: 300px;
+    max-width: 300px;
+    
+}
+.gitlink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.disname {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-div {
+    display: flex;
+    justify-content: space-around;
+}
